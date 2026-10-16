@@ -1,0 +1,65 @@
+{title: Desert Song}
+{artist: Brooke Fraser}
+{group: Hillsong Worship}
+{genre: Modern Worship}
+{style: Ballad}
+{flow: Meditative}
+{key: D}
+{time: 4/4}
+{license: CCLI}
+{ccli: 5060793}
+{chords_only: true}
+{c: Chord chart only — lyrics are copyrighted and not included. Admin: Edit → paste your licensed chord sheet (CCLI SongSelect) → Convert chord sheet.}
+{c: Chords checked against ultimate-guitar.com, pnwchords.com}
+
+{start_of_verse: Intro}
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [G]
+{end_of_verse}
+
+{start_of_verse: Verse 1}
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [G]
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [D/F#] [G] [G]
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[D] [A] [G] [D]
+[A] [A] [Bm] [Bm]
+[G] [A] [Bm] [Bm]
+{end_of_chorus}
+
+{start_of_verse: Instrumental}
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [G]
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [G]
+{end_of_verse}
+
+{chorus}
+
+{start_of_bridge: Bridge}
+[D] [Bm] [A] [G][D]
+{end_of_bridge}
+
+{chorus}
+
+{start_of_verse: Verse 4}
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [D]
+[Bm] [A] [G] [G]
+{end_of_verse}

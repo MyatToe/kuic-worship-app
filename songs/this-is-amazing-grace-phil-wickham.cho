@@ -1,0 +1,49 @@
+{title: This Is Amazing Grace}
+{artist: Jeremy Riddle, Josh Farro, Phil Wickham}
+{group: Phil Wickham}
+{genre: Modern Worship}
+{style: Anthem}
+{flow: Opening}
+{key: Bb}
+{time: 4/4}
+{license: CCLI}
+{ccli: 6333821}
+{chords_only: true}
+{c: Chord chart only — lyrics are copyrighted and not included. Admin: Edit → paste your licensed chord sheet (CCLI SongSelect) → Convert chord sheet.}
+{c: Chords checked against ultimate-guitar.com, worshipchords.com}
+
+{start_of_verse: Intro}
+[Bb] [Eb] [Bb] [Eb]
+{end_of_verse}
+
+{start_of_verse: Verse 1}
+[Bb] [Eb] [Gm] [F][Eb]
+[Bb] [Eb] [Gm] [F][Eb]
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[Bb] [Eb] [Gm] [F]
+[Bb] [Eb] [Gm] [F]
+{end_of_chorus}
+
+{start_of_verse: Interlude}
+[Bb] [Eb]
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[Bb] [Eb] [Gm] [F][Eb]
+[Bb] [Eb] [Gm] [F][Eb]
+{end_of_verse}
+
+{chorus}
+
+{start_of_bridge: Bridge}
+[Bb] [Eb] [Gm] [Eb]
+[Bb] [Eb] [Gm] [Eb]
+{end_of_bridge}
+
+{chorus}
+
+{start_of_verse: Outro}
+[Bb] [Eb] [Bb] [Eb]
+{end_of_verse}

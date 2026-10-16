@@ -1,0 +1,44 @@
+{title: Angels We Have Heard on High}
+{artist: Traditional French carol}
+{genre: Christmas}
+{flow: Opening}
+{style: Carol}
+{key: G}
+{key_original: F}
+{tempo: 100}
+{time: 4/4}
+{hymnal: 새찬송가 125장}
+{title_ko: 천사들의 노래가}
+{score: angels-we-have-heard-on-high.abc}
+
+{start_of_verse: Verse 1}
+[G]Angels we have [D]heard on high
+[G]Sweetly singing [D]o'er the [G]plains
+And the [G]mountains in [D]reply
+[G]Echoing their [D]joyous [G]strains
+{end_of_verse}
+
+{start_of_chorus}
+[G]Glo__[Em]__[Am]__[D]__[G]__[C]__[D]__ria
+In [G/B]ex[D]cel[G]sis [C]De[D]o
+[G]Glo__[Em]__[Am]__[D]__[G]__[C]__[D]__ria
+In [G/B]ex[D]cel[G]sis [C]De[D]o[G]
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[G]Shepherds, why this [D]jubilee
+[G]Why your joyous [D]strains pro[G]long
+What the [G]gladsome tidings [D]be
+[G]Which inspire your [D]heavenly [G]song
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse: Verse 3}
+[G]Come to Bethlehem and [D]see
+[G]Him whose birth the [D]angels [G]sing
+Come a[G]dore on bended [D]knee
+[G]Christ the Lord, the [D]newborn [G]King
+{end_of_verse}
+
+{chorus}

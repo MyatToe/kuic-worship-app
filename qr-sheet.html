@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>KUIC Worship — Join QR codes</title>
+  <meta name="author" content="Myat Toe (Matthew)">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap">
+  <link rel="stylesheet" href="css/qr-sheet.css">
+  <!-- QR codes: the same library as the app -->
+  <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js" integrity="sha384-8FWZA6BGMXhsfO+BLtrJK0We6gg5o1JyO8xQm6peWDEUs17ACA5ziE/NIAkl9z2k" crossorigin="anonymous" defer></script>
+  <script type="module" src="js/qr-sheet.js"></script>
+</head>
+<body>
+  <div class="tools no-print">
+    <button type="button" id="printBtn">🖨 Print</button>
+    <span>Tip: print on A4, one sheet per table or door. 인쇄해서 입구나 테이블에 두세요.</span>
+  </div>
+  <main id="sheet">
+    <header class="sheet-head">
+      <img src="img/kuic-cross-logo.svg" alt="" width="64" height="64">
+      <div>
+        <h1 id="church">Konkuk University International Church</h1>
+        <p>KUIC Worship · Room <b id="room">—</b></p>
+      </div>
+    </header>
+    <div class="codes" id="codes"></div>
+    <p class="foot" id="foot"></p>
+  </main>
+  <noscript><p>This page needs JavaScript to draw the QR codes.</p></noscript>
+</body>
+</html>

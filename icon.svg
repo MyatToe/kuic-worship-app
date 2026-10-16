@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>KUIC — Konkuk University International Church</title>
+  <!-- Redrawn as a vector from the church's 37-pixel icon: lime square, pale frame, charcoal cross, KUIC on the crossbar -->
+  <defs>
+    <linearGradient id="lime" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d6e17a"/>
+      <stop offset="0.45" stop-color="#b9cd5c"/>
+      <stop offset="1" stop-color="#a3c145"/>
+    </linearGradient>
+    <linearGradient id="cross" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5d5b6b"/>
+      <stop offset="1" stop-color="#52515a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#lime)"/>
+  <!-- pale frame -->
+  <rect x="70" y="62" width="372" height="388" fill="#acbf55" stroke="#e6f39c" stroke-width="18"/>
+  <!-- cross -->
+  <path d="M200 74h112v150h126v104H312v120H200V328H74V224h126z" fill="url(#cross)" stroke="#3f4430" stroke-width="8" stroke-linejoin="miter"/>
+  <!-- name on the crossbar -->
+  <text x="256" y="307" text-anchor="middle" font-family="Arial, 'Helvetica Neue', sans-serif" font-size="92" font-weight="700" letter-spacing="6" fill="#d2d1d8">KUIC</text>
+</svg>

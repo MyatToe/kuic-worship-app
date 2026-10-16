@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>KUIC Worship</title>
+  <meta name="description" content="Chord sheets, key changes and live projection for the KUIC praise team.">
+  <meta name="author" content="Myat Toe (Matthew)">
+  <meta name="description" content="KUIC Worship — Konkuk University International Church">
+  <meta name="copyright" content="© 2026 Myat Toe (Matthew)">
+  <meta name="theme-color" content="#000000">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Korean web fonts don't hold up the first paint: the page shows with the system font and
+       switches when they arrive (display=swap). js/lazy.js adds the stylesheets; the slide fonts
+       (Noto Serif KR, NanumSquare) after the page has loaded. -->
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/slides.css">
+  <link rel="stylesheet" href="css/chords.css">
+  <!-- PeerJS (device-to-device sync) and the QR code generator load on first use: js/lazy.js -->
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button class="icon-btn narrow-only" id="menuBtn" type="button" aria-label="Songs and service">☰</button>
+    <div class="brand" title="Konkuk University International Church"><img class="brand-mark" src="img/kuic-cross-logo.svg" alt="" width="22" height="22"> KUIC Worship</div>
+    <button class="pill" id="connPill" type="button" title="Connection and role"></button>
+    <a class="btn small" id="appLink" href="./" hidden title="Back to KUIC Worship (songs, service, rooms)">🎵 Worship app</a>
+    <button class="btn small" id="backLive" type="button" data-act="aud-back" hidden>↩ Back to live</button>
+    <div class="spacer"></div>
+    <button class="btn" id="projBtn" type="button" hidden>🖥 Projector</button>
+    <button class="icon-btn fb-btn" id="feedbackBtn" type="button" data-act="app-feedback" aria-label="Send feedback · 의견 보내기" title="Feedback — report a bug or share an idea · 의견 보내기">💬<span class="fb-badge" id="feedbackBadge" hidden></span></button>
+    <button class="icon-btn" id="settingsBtn" type="button" aria-label="Settings">⚙</button>
+  </header>
+
+  <div class="layout">
+    <aside class="side" id="side">
+      <div class="tabs" role="tablist">
+        <button type="button" role="tab" data-tab="service" id="tabService">Service</button>
+        <button type="button" role="tab" data-tab="library" id="tabLibrary">Library</button>
+        <button type="button" role="tab" data-tab="bible" id="tabBible">📖 Bible</button>
+      </div>
+      <div class="side-body" id="sideBody"></div>
+    </aside>
+    <div class="scrim narrow-only" id="scrim" hidden></div>
+    <main class="main" id="main" tabindex="-1"></main>
+  </div>
+
+  <footer class="livebar" id="livebar" hidden></footer>
+
+  <dialog id="modal" class="modal"><div id="modalBody"></div></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p style="padding:2rem">KUIC Worship needs JavaScript enabled.</p></noscript>
+</body>
+</html>

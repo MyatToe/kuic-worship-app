@@ -1,0 +1,43 @@
+X: 1
+T: Ride On! Ride On in Majesty
+C: Words: Henry Hart Milman, 1827, alt.
+C: Music: 'Winchester New' from "Musikalisches Handbuch", Hamburg, 1690.  Setting: Charles Lewis Hutchins, 1896.
+C: copyright: public domain.  This score is a part of the Open Hymnal Project, 2026 Revision.
+S: Music source: The Church Hymnal, 1896 Hymn 197. Ed. Charles Lewis Hutchins
+S: Setting somewhat diff from "hymns ancient and modern", 1869
+S: Lyrics source: "The New Hymnal" (Episcopal) 1916 hymn 145
+M: 4/4
+L: 1/4
+%%staves (S1V1 S1V2) | (S2V1 S2V2)
+V: S1V1 clef=treble
+V: S1V2
+V: S2V1 clef=bass
+V: S2V2
+K: C
+[V: S1V1] [Q:1/4=100] G | c G A A | G F E E |
+w: 1.~Ride on! Ride on in ma- jes- ty! Hark!
+w: 2.~Ride on! Ride on in ma- jes- ty! In
+w: 3.~Ride on! Ride on in ma- jes- ty! The
+w: 4.~Ride on! Ride on in ma- jes- ty! Thy
+w: 5.~Ride on! Ride on in ma- jes- ty! In
+[V: S1V2]  E | G E F F/E/ | D B, C C |
+[V: S2V1]  C | C C C C | G, G, G, G, |
+[V: S2V2]  C, | E, C, F, A,, | B,, G,, C, C, |
+[V: S1V1]  F E D G | G ^F G G | c d e c |
+w: all the tribes ho- san- na cry; O Sa- vior meek pur-
+w: low- ly pomp ride on to die: O Christ Thy tri- umphs
+w: an- gel ar- mies of the sky Look down with sad and
+w: last and fier- cest strife is nigh; The Fa- ther on His
+w: low- ly pomp ride on to die: Bow Thy meek head to
+[V: S1V2]  C C B, B, | E D/C/ B, D | G F E G |
+[V: S2V1]  F, G, G, B, | A, A, G, B, | C B, C G, |
+[V: S2V2]  A,, C, G,, E, | C, D, G,, G,/F,/ | E, D, C, E, |
+[V: S1V1]  f e d e | c A G c | c B c |]
+w: sue Thy road With palms and scat- tered gar- ments strewed.
+w: now be- gin O'er cap- tive death and con- quered sin.
+w: won- d'ring eyes Too see th'ap- roa- ching sac- ri- fice.
+w: sap- phire throne Ex- pects His own a- noin- ted Son.
+w: mor- tal pain, Then take, O God, Thy pow'r and reign.
+[V: S1V2]  F G G G | G F/E/ D C | D F E |]
+[V: S2V1]  A,/B,/ C B, C | C C B, A, | A, G, G, |]
+[V: S2V2]  D, C, G, C, | E, F, G, A, | F, G, C, |]

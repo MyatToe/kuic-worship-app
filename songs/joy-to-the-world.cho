@@ -1,0 +1,47 @@
+{title: Joy to the World}
+{artist: Isaac Watts / George Frideric Handel}
+{genre: Christmas}
+{flow: Opening}
+{style: Carol}
+{key: D}
+{tempo: 100}
+{time: 4/4}
+{hymnal: 새찬송가 115장}
+{title_ko: 기쁘다 구주 오셨네}
+{score: joy-to-the-world.abc}
+
+{start_of_verse: Verse 1}
+[D]Joy to the world, the [A]Lord is come
+Let [D]earth re[G]ceive her [D]King
+Let every [D]heart pre[G]pare Him [D]room
+And heaven and [A]nature [D]sing
+And heaven and [A]nature [D]sing
+And heaven, and heaven and [D]nature [A]sing[D]
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[D]Joy to the world, the [A]Saviour reigns
+Let [D]men their [G]songs em[D]ploy
+While fields and [D]floods, rocks, [G]hills and [D]plains
+Repeat the sounding [A]joy
+Repeat the sounding [A]joy
+Repeat, repeat the sounding [D]joy[A][D]
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+[D]No more let sins and [A]sorrows grow
+Nor [D]thorns in[G]fest the [D]ground
+He comes to [D]make His [G]blessings [D]flow
+Far as the curse is [A]found
+Far as the curse is [A]found
+Far as, far as the curse is [D]found[A][D]
+{end_of_verse}
+
+{start_of_verse: Verse 4}
+[D]He rules the world with [A]truth and grace
+And [D]makes the [G]nations [D]prove
+The glories of His [D]righteous[G]ness
+And wonders of His [A]love
+And wonders of His [A]love
+And wonders, wonders of His [D]love[A][D]
+{end_of_verse}

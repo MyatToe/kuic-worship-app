@@ -1,0 +1,56 @@
+{title: Your Name}
+{artist: Paul Baloche, Glenn Packiam}
+{group: Paul Baloche}
+{genre: Modern Worship}
+{style: Anthem}
+{flow: Opening}
+{key: Bb}
+{time: 4/4}
+{license: CCLI}
+{ccli: 7005511}
+{chords_only: true}
+{c: Chord chart only — lyrics are copyrighted and not included. Admin: Edit → paste your licensed chord sheet (CCLI SongSelect) → Convert chord sheet.}
+{c: Chords checked against ultimate-guitar.com, worshipchords.net}
+
+{start_of_verse: Intro}
+[Bb/D] [Eb] [F/A] [Bb]
+[Bb/D] [Eb] [F/A] [Bb]
+{end_of_verse}
+
+{start_of_verse: Verse 1}
+[Bb/D] [Eb] [F] [Bb]
+[Bb/D] [Eb] [F] [Bb]
+[Bb/D] [Eb] [F] [Gm7]
+[Eb] [F] [Bb]
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[F] [Gm7] [Bb] [Eb]
+[F] [Gm7] [Bb] [Eb]
+[F] [Gm7] [Bb] [Eb]
+[Bb/D] [Eb] [F]
+{end_of_chorus}
+
+{start_of_verse: Interlude}
+[Bb/D] [Eb] [F/A] [Bb]
+[Bb/D] [Eb] [F/A] [Bb]
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[Bb/D] [Eb] [F] [Bb]
+[Bb/D] [Eb] [F] [Bb]
+[Bb/D] [Eb] [F] [Gm7]
+[Eb] [F] [Bb]
+{end_of_verse}
+
+{start_of_verse: Instrumental}
+[Gm7] [F] [C]
+[Gm7] [F] [C] [Eb]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse: Ending}
+[Bb/D] [Eb] [F] [Bb]
+[Bb/D] [Eb] [F] [Bb]
+{end_of_verse}

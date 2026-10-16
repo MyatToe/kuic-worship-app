@@ -1,0 +1,53 @@
+{title: Hark! The Herald Angels Sing}
+{artist: Charles Wesley / Felix Mendelssohn}
+{genre: Christmas}
+{flow: Opening}
+{style: Carol}
+{key: G}
+{tempo: 104}
+{time: 4/4}
+{hymnal: 새찬송가 126장}
+{title_ko: 천사 찬송하기를}
+{score: hark-the-herald-angels-sing.abc}
+
+{start_of_verse: Verse 1}
+[G]Hark! the herald [D]angels sing
+"[G]Glory to the [D]newborn [G]King
+[G]Peace on earth and [D]mercy mild
+[G]God and sinners [D]recon[G]ciled"
+[C]Joyful, all ye [G]nations rise
+[Am]Join the triumph [D]of the skies
+[G]With the angelic [D]host pro[G]claim
+"[C]Christ is [G]born in [D]Beth[G]lehem"
+{end_of_verse}
+
+{start_of_chorus}
+[G]Hark! the herald [D]angels sing
+"[G]Glory to the [D]newborn [G]King"
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[G]Christ, by highest [D]heaven adored
+[G]Christ, the everlasting [D]Lord
+[G]Late in time be[D]hold Him come
+[G]Offspring of a [D]Vir[G]gin's womb
+[C]Veiled in flesh the [G]Godhead see
+[Am]Hail the incar[D]nate Deity
+[G]Pleased as man with [D]men to dwell
+[C]Jesus, our Em[G]manu[D]el[G]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse: Verse 3}
+[G]Hail the heaven-born [D]Prince of Peace
+[G]Hail the Sun of [D]Righteous[G]ness
+[G]Light and life to [D]all He brings
+[G]Risen with healing [D]in His [G]wings
+[C]Mild He lays His [G]glory by
+[Am]Born that man no [D]more may die
+[G]Born to raise the [D]sons of earth
+[C]Born to give them [G]second [D]birth[G]
+{end_of_verse}
+
+{chorus}
