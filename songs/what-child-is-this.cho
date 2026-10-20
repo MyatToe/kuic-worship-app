@@ -1,0 +1,41 @@
+{title: What Child Is This}
+{artist: William Chatterton Dix / Greensleeves}
+{genre: Christmas}
+{flow: Meditative}
+{style: Carol}
+{key: Em}
+{tempo: 84}
+{time: 6/8}
+{score: what-child-is-this.abc}
+
+{start_of_verse: Verse 1}
+What [Em]child is [D]this, who [B7]laid to [Em]rest
+On [G]Mary's [D]lap is [B7]sleeping
+Whom [Em]angels [D]greet with [B7]anthems [Em]sweet
+While [G]shepherds [D]watch are [B7]keeping
+{end_of_verse}
+
+{start_of_chorus}
+This, [G]this is [D]Christ the [Em]King
+Whom [Am]shepherds [B7]guard and [Em]angels sing
+Haste, [G]haste to [D]bring Him [Em]laud
+The [Am]babe, the [B7]son of [Em]Mary
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+Why [Em]lies He [D]in such [B7]mean es[Em]tate
+Where [G]ox and [D]ass are [B7]feeding
+Good [Em]Christian, [D]fear, for [B7]sinners [Em]here
+The [G]silent [D]Word is [B7]pleading
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse: Verse 3}
+So [Em]bring Him [D]incense, [B7]gold and [Em]myrrh
+Come [G]peasant, [D]king to [B7]own Him
+The [Em]King of [D]kings sal[B7]vation [Em]brings
+Let [G]loving [D]hearts en[B7]throne Him
+{end_of_verse}
+
+{chorus}

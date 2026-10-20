@@ -1,0 +1,44 @@
+{title: Famous One}
+{artist: Chris Tomlin, Jesse Reeves}
+{group: Chris Tomlin}
+{genre: Modern Worship}
+{style: Upbeat}
+{flow: Opening}
+{key: G}
+{time: 6/8}
+{license: CCLI}
+{ccli: 3599431}
+{chords_only: true}
+{c: Chord chart only — lyrics are copyrighted and not included. Admin: Edit → paste your licensed chord sheet (CCLI SongSelect) → Convert chord sheet.}
+{c: Chords checked against worshipchords.com, ultimate-guitar.com}
+
+{start_of_verse: Intro}
+[G] [G] [G] [G]
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[G] [G/B] [C] [C]
+[Em7] [D] [C] [C]
+[G] [G/B] [C] [C]
+[Em7] [D] [G] [G]
+{end_of_chorus}
+
+{start_of_verse: Verse 1}
+[Am7] [G/B] [C] [G]
+[Am7] [G/B] [C] [D]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse: Verse 2}
+[Am7] [G/B] [C] [G]
+[Am7] [G/B] [C] [D]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse: Tag}
+[C] [D] [C] [D]
+{end_of_verse}
+
+{chorus}

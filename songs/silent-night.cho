@@ -1,0 +1,39 @@
+{title: Silent Night}
+{title_ko: 고요한 밤 거룩한 밤}
+{hymnal: 새찬송가 109장}
+{artist: Joseph Mohr / Franz Gruber}
+{genre: Christmas}
+{flow: Meditative}
+{style: Carol}
+{key: C}
+{key_original: Bb}
+{tempo: 66}
+{time: 3/4}
+{score: silent-night.abc}
+
+{start_of_verse: Verse 1}
+[C]Silent night, [G]holy night
+[G7]All is calm, [C]all is bright
+Round yon [F]virgin, mother and [C]child
+Holy infant so [F]tender and [C]mild
+Sleep in heavenly [G]peace
+Sleep in heavenly [C]peace
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[C]Silent night, [G]holy night
+[G7]Shepherds quake [C]at the sight
+Glories [F]stream from heaven a[C]far
+Heavenly hosts sing [F]Alle[C]luia
+Christ the Saviour is [G]born
+Christ the Saviour is [C]born
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+[C]Silent night, [G]holy night
+[G7]Son of God, [C]love's pure light
+Radiant [F]beams from thy holy [C]face
+With the dawn of re[F]deeming [C]grace
+Jesus, Lord, at thy [G]birth
+Jesus, Lord, at thy [C]birth
+{end_of_verse}

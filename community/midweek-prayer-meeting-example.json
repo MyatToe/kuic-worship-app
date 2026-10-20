@@ -1,0 +1,160 @@
+{
+ "format": "kuic-worship-template",
+ "version": 1,
+ "name": "Midweek Prayer Meeting (example)",
+ "church": "Example church",
+ "note": "Example entry: a bilingual midweek prayer meeting with hymns, Philippians 4, prayer topics and the Lord's Prayer.",
+ "settings": {
+  "bgStyle": "candles-dark",
+  "font": "nanumsquare",
+  "bilingual": true,
+  "showTitle": true
+ },
+ "items": [
+  {
+   "kind": "deck",
+   "title": "Welcome · 환영",
+   "text": "{title: Welcome · 환영}\n\n{start_of_verse: Prayer Meeting · 기도회}\nPrayer Meeting · 기도회\nYour church name · 교회 이름\n“Do not be anxious about anything…” (Philippians 4:6)\n아무것도 염려하지 말고\n{end_of_verse}\n",
+   "deck": {
+    "slides": [
+     {
+      "layout": "title",
+      "title": "Prayer Meeting · 기도회",
+      "bg": "",
+      "subtitle": "Your church name · 교회 이름",
+      "note": "“Do not be anxious about anything…” (Philippians 4:6)\n아무것도 염려하지 말고",
+      "logo": "behind"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "song",
+   "title": "Sweet Hour of Prayer",
+   "text": "{title: Sweet Hour of Prayer}\r\n{artist: William W. Walford / William B. Bradbury}\r\n{genre: Hymn}\r\n{style: Traditional}\r\n{flow: Meditative}\r\n{key: G}\r\n{key_original: D}\r\n{tempo: 66}\r\n{time: 4/4}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]Sweet hour of prayer! [D]sweet hour of [G]prayer!\r\nThat [C]calls me from a [G]world of [D]care\r\nAnd [G]bids me at my [C]Father's [G]throne\r\nMake [Am]all my wants and [D]wishes [G]known\r\nIn [G]seasons of dis[D]tress and [G]grief\r\nMy [C]soul has often [G]found re[D]lief\r\nAnd [G]oft escaped the [C]tempter's [G]snare\r\nBy [Am]thy re[D]turn, sweet [G]hour of prayer\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]Sweet hour of prayer! [D]sweet hour of [G]prayer!\r\nThe [C]joys I feel, the [G]bliss I [D]share\r\nOf [G]those whose anxious [C]spirits [G]burn\r\nWith [Am]strong desires for [D]thy re[G]turn\r\nWith [G]such I hasten [D]to the [G]place\r\nWhere [C]God my Savior [G]shows His [D]face\r\nAnd [G]gladly take my [C]station [G]there\r\nAnd [Am]wait for [D]thee, sweet [G]hour of prayer\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 3}\r\n[G]Sweet hour of prayer! [D]sweet hour of [G]prayer!\r\nThy [C]wings shall my pe[G]tition [D]bear\r\nTo [G]Him whose truth and [C]faithful[G]ness\r\nEn[Am]gage the waiting [D]soul to [G]bless\r\nAnd [G]since He bids me [D]seek His [G]face\r\nBe[C]lieve His Word and [G]trust His [D]grace\r\nI'll [G]cast on Him my [C]every [G]care\r\nAnd [Am]wait for [D]thee, sweet [G]hour of prayer\r\n{end_of_verse}\r\n"
+  },
+  {
+   "kind": "song",
+   "title": "What a Friend We Have in Jesus",
+   "text": "{title: What a Friend We Have in Jesus}\r\n{artist: Joseph Scriven / Charles Converse}\r\n{genre: Hymn}\r\n{flow: Meditative}\r\n{style: Traditional}\r\n{key: F}\r\n{hymnal: 새찬송가 369장}\r\n{title_ko: 죄짐 맡은 우리 구주}\r\n{tempo: 80}\r\n{time: 4/4}\r\n{score: what-a-friend-we-have-in-jesus.abc}\r\n\r\n{start_of_verse: Verse 1}\r\n[F]What a friend we have in [Bb]Jesus\r\n[F]All our sins and griefs to [C]bear\r\n[F]What a privilege to [Bb]carry\r\n[F]Everything to [C]God in [F]prayer\r\n[F]O what peace we often [Bb]forfeit\r\n[F]O what needless pain we [C]bear\r\n[F]All because we do not [Bb]carry\r\n[F]Everything to [C]God in [F]prayer\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[F]Have we trials and tempta[Bb]tions\r\n[F]Is there trouble any[C]where\r\n[F]We should never be dis[Bb]couraged\r\n[F]Take it to the [C]Lord in [F]prayer\r\n[F]Can we find a friend so [Bb]faithful\r\n[F]Who will all our sorrows [C]share\r\n[F]Jesus knows our every [Bb]weakness\r\n[F]Take it to the [C]Lord in [F]prayer\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 3}\r\n[F]Are we weak and heavy-[Bb]laden\r\n[F]Cumbered with a load of [C]care\r\n[F]Precious Savior, still our [Bb]refuge\r\n[F]Take it to the [C]Lord in [F]prayer\r\n[F]Do thy friends despise, for[Bb]sake thee\r\n[F]Take it to the Lord in [C]prayer\r\n[F]In His arms He'll take and [Bb]shield thee\r\n[F]Thou wilt find a [C]solace [F]there\r\n{end_of_verse}\r\n"
+  },
+  {
+   "kind": "bible",
+   "title": "Scripture · 말씀 — Philippians 4:4-7",
+   "text": "{title: Philippians 4:4-7}\n\n{start_of_verse: 4:4-5}\n4 Rejoice in the Lord always. I will say it again: Rejoice!\n5 Let your gentleness be apparent to all. The Lord is near.\n{end_of_verse}\n\n{start_of_verse: 4:6}\n6 Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God.\n{end_of_verse}\n\n{start_of_verse: 4:7}\n7 And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.\n{end_of_verse}\n",
+   "title2": "빌립보서 4장 4-7절",
+   "text2": "{title: 빌립보서 4장 4-7절}\n\n{start_of_verse: 4:4-5}\n4 주 안에서 항상 기뻐하라 내가 다시 말하노니 기뻐하라\n5 너희 관용을 모든 사람에게 알게 하라 주께서 가까우시니라\n{end_of_verse}\n\n{start_of_verse: 4:6}\n6 아무 것도 염려하지 말고 오직 모든 일에 기도와 간구로, 너희 구할 것을 감사함으로 하나님께 아뢰라\n{end_of_verse}\n\n{start_of_verse: 4:7}\n7 그리하면 모든 지각에 뛰어난 하나님의 평강이 그리스도 예수 안에서 너희 마음과 생각을 지키시리라\n{end_of_verse}\n"
+  },
+  {
+   "kind": "deck",
+   "title": "Prayer topics · 기도 제목",
+   "text": "{title: Prayer topics · 기도 제목}\n\n{start_of_verse: Prayer topics · 기도 제목}\nPrayer topics · 기도 제목\nFor our church and its leaders · 교회와 지도자를 위하여\nFor the sick and those who grieve · 아픈 이들과 슬픈 이들을 위하여\nFor our families and the next generation · 가정과 다음 세대를 위하여\nFor our city and nation · 도시와 나라를 위하여\nFor missionaries and the nations · 선교사와 열방을 위하여\n{end_of_verse}\n",
+   "deck": {
+    "slides": [
+     {
+      "layout": "list",
+      "title": "Prayer topics · 기도 제목",
+      "bg": "",
+      "items": [
+       "For our church and its leaders · 교회와 지도자를 위하여",
+       "For the sick and those who grieve · 아픈 이들과 슬픈 이들을 위하여",
+       "For our families and the next generation · 가정과 다음 세대를 위하여",
+       "For our city and nation · 도시와 나라를 위하여",
+       "For missionaries and the nations · 선교사와 열방을 위하여"
+      ],
+      "columns": 1,
+      "numbered": true
+     }
+    ]
+   }
+  },
+  {
+   "kind": "deck",
+   "title": "Praying together · 합심 기도",
+   "text": "{title: Praying together · 합심 기도}\n\n{start_of_verse: Praying together · 합심 기도}\nPraying together · 합심 기도\nPray aloud or silently · 함께 기도합니다\n{end_of_verse}\n",
+   "deck": {
+    "slides": [
+     {
+      "layout": "heading",
+      "title": "Praying together · 합심 기도",
+      "bg": "",
+      "subtitle": "Pray aloud or silently · 함께 기도합니다",
+      "name": ""
+     }
+    ]
+   }
+  },
+  {
+   "kind": "song",
+   "title": "I Need Thee Every Hour",
+   "text": "{title: I Need Thee Every Hour}\r\n{artist: Annie Hawks / Robert Lowry}\r\n{genre: Hymn}\r\n{flow: Meditative}\r\n{style: Traditional}\r\n{key: G}\r\n{key_original: Ab}\r\n{tempo: 72}\r\n{time: 3/4}\r\n{hymnal: 새찬송가 446장}\r\n{title_ko: 주 음성 외에는}\r\n{score: i-need-thee-every-hour.abc}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]I need Thee every [C]hour, most [G]gracious Lord\r\nNo [G]tender voice like [D]Thine can peace af[G]ford\r\n{end_of_verse}\r\n\r\n{start_of_chorus}\r\n[G]I need Thee, O I need Thee\r\n[C]Every hour I [G]need Thee\r\nO [G]bless me now, my [D]Savior\r\nI [G]come to [D]Thee [G]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]I need Thee every [C]hour, stay [G]Thou near by\r\nTemp[G]tations lose their [D]power when Thou art [G]nigh\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[G]I need Thee every [C]hour, in [G]joy or pain\r\nCome [G]quickly and a[D]bide, or life is [G]vain\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 4}\r\n[G]I need Thee every [C]hour, teach [G]me Thy will\r\nAnd [G]Thy rich pro[D]mises in me ful[G]fill\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 5}\r\n[G]I need Thee every [C]hour, most [G]Holy One\r\nO [G]make me Thine in[D]deed, Thou blessed [G]Son\r\n{end_of_verse}\r\n\r\n{chorus}\r\n"
+  },
+  {
+   "kind": "deck",
+   "title": "Lord's Prayer · 주기도문",
+   "text": "{title: Lord's Prayer · 주기도문}\n\n{start_of_verse: The Lord's Prayer}\nThe Lord's Prayer\nOur Father, which art in heaven, hallowed be thy name.\nThy kingdom come. Thy will be done in earth, as it is in heaven.\nGive us this day our daily bread. And forgive us our trespasses, as we forgive them that trespass against us.\nAnd lead us not into temptation; but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen.\n{end_of_verse}\n\n{start_of_verse: 주기도문}\n주기도문\n하늘에 계신 우리 아버지여, 이름이 거룩히 여김을 받으시오며, 나라이 임하옵시며,\n뜻이 하늘에서 이룬 것 같이 땅에서도 이루어지이다.\n오늘날 우리에게 일용할 양식을 주옵시고, 우리가 우리에게 죄 지은 자를 사하여 준 것 같이 우리 죄를 사하여 주옵시고,\n우리를 시험에 들게 하지 마옵시고, 다만 악에서 구하옵소서. 대개 나라와 권세와 영광이 아버지께 영원히 있사옵나이다. 아멘.\n{end_of_verse}\n",
+   "deck": {
+    "slides": [
+     {
+      "layout": "text",
+      "title": "The Lord's Prayer",
+      "bg": "",
+      "body": [
+       "Our Father, which art in heaven, hallowed be thy name.",
+       "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+       "Give us this day our daily bread. And forgive us our trespasses, as we forgive them that trespass against us.",
+       "And lead us not into temptation; but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever and ever. Amen."
+      ],
+      "align": "center"
+     },
+     {
+      "layout": "text",
+      "title": "주기도문",
+      "bg": "",
+      "body": [
+       "하늘에 계신 우리 아버지여, 이름이 거룩히 여김을 받으시오며, 나라이 임하옵시며,",
+       "뜻이 하늘에서 이룬 것 같이 땅에서도 이루어지이다.",
+       "오늘날 우리에게 일용할 양식을 주옵시고, 우리가 우리에게 죄 지은 자를 사하여 준 것 같이 우리 죄를 사하여 주옵시고,",
+       "우리를 시험에 들게 하지 마옵시고, 다만 악에서 구하옵소서. 대개 나라와 권세와 영광이 아버지께 영원히 있사옵나이다. 아멘."
+      ],
+      "align": "center"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "song",
+   "title": "Blest Be the Tie That Binds",
+   "text": "{title: Blest Be the Tie That Binds}\r\n{artist: John Fawcett / Hans G. Nägeli}\r\n{genre: Hymn}\r\n{style: Traditional}\r\n{flow: Closing}\r\n{key: G}\r\n{key_original: F}\r\n{tempo: 72}\r\n{time: 3/4}\r\n{score: blest-be-the-tie-that-binds.abc}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]Blest be the tie that [C]binds\r\nOur [G]hearts in Chris[D]tian [G]love\r\nThe [G]fellowship of [C]kindred [G]minds\r\nIs [Em]like to [D]that a[G]bove\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]Before our Father's [C]throne\r\nWe [G]pour our ar[D]dent [G]prayers\r\nOur [G]fears, our hopes, our [C]aims are [G]one\r\nOur [Em]comforts [D]and our [G]cares\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 3}\r\n[G]We share our mutual [C]woes\r\nOur [G]mutual bur[D]dens [G]bear\r\nAnd [G]often for each [C]other [G]flows\r\nThe [Em]sympa[D]thizing [G]tear\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 4}\r\n[G]When we asunder [C]part\r\nIt [G]gives us in[D]ward [G]pain\r\nBut [G]we shall still be [C]joined in [G]heart\r\nAnd [Em]hope to [D]meet a[G]gain\r\n{end_of_verse}\r\n"
+  },
+  {
+   "kind": "deck",
+   "title": "Closing · 마침",
+   "text": "{title: Closing · 마침}\n\n{start_of_verse: Go in peace · 평안히 가십시오}\nGo in peace · 평안히 가십시오\nThe Lord bless you and keep you\n여호와는 네게 복을 주시고 너를 지키시기를 원하며\n{end_of_verse}\n",
+   "deck": {
+    "slides": [
+     {
+      "layout": "title",
+      "title": "Go in peace · 평안히 가십시오",
+      "bg": "",
+      "subtitle": "",
+      "note": "The Lord bless you and keep you\n여호와는 네게 복을 주시고 너를 지키시기를 원하며",
+      "logo": ""
+     }
+    ]
+   }
+  }
+ ],
+ "category": "prayer",
+ "tags": [
+  "prayer",
+  "midweek",
+  "bilingual",
+  "example"
+ ],
+ "languages": [
+  "en",
+  "ko"
+ ],
+ "updatedAt": 1791936000000
+}

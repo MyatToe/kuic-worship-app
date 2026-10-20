@@ -1,0 +1,26 @@
+{
+ "format": "kuic-worship-community",
+ "version": 1,
+ "templates": [
+  {
+   "id": "midweek-prayer-meeting-example",
+   "name": "Midweek Prayer Meeting (example)",
+   "category": "prayer",
+   "tags": [
+    "prayer",
+    "midweek",
+    "bilingual",
+    "example"
+   ],
+   "languages": [
+    "en",
+    "ko"
+   ],
+   "description": "Example entry: a bilingual midweek prayer meeting with hymns, Philippians 4, prayer topics and the Lord's Prayer.",
+   "author": "Example church",
+   "count": 10,
+   "file": "midweek-prayer-meeting-example.json",
+   "date": "2026-10-14"
+  }
+ ]
+}
